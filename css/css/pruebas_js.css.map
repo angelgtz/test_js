@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAK;EACD,gBAAgB,ECHR,IAAI;;ADMhB,EAAG;EACC,KAAK,ECLE,OAAO;;ADQlB,EAAG;EACC,KAAK,ECRE,OAAO",
+"sources": ["../sass/pruebas_js.scss","../sass/_variables.scss"],
+"names": [],
+"file": "pruebas_js.css"
+}

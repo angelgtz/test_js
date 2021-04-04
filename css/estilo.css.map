@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,UAAW;EACP,gBAAgB,ECHR,IAAI;EDIZ,MAAM,EAAE,KAAK;;AAEjB,aAAc;EACV,KAAK,ECNI,IAAI",
+"sources": ["sass/estilo.scss","sass/_variables.scss"],
+"names": [],
+"file": "estilo.css"
+}

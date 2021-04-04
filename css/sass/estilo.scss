@@ -1,0 +1,9 @@
+@import '_variables';
+
+.contenido {
+    background-color: $principal;
+    height: 100vh;
+}
+.contenido h1 {
+    color: $secundario;
+}
